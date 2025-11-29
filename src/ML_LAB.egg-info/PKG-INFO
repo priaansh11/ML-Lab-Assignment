@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ML_LAB
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/priaansh11/ML_LAB_EXAM
+Author: priaansh11
+Author-email: priyanshukumarofficial@gmail.com
+Project-URL: Bug Tracker, https://github.com/priaansh11/ML_LAB_EXAM/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
