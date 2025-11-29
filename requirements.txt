@@ -1,6 +1,11 @@
-numpy
 pandas
-matplotlib
+numpy
 scikit-learn
-xgboost
+joblib
+streamlit
+statsmodels
+python-box
+pyyaml
+ensure
+types-PyYAML
 -e .
